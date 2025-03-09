@@ -1,0 +1,4 @@
+name: myscoreboard
+version: '1.0-SNAPSHOT'
+main: org.iscrollz.rh.myscoreboard.Myscoreboard
+api-version: '1.20'
